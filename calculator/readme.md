@@ -1,4 +1,4 @@
-#A simple calculator app 
+# A simple calculator app 
 
 **I used:**
 * Cupertino icons
