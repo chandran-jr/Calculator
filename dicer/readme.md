@@ -1,5 +1,5 @@
-A simple UI with 2 dices which generate random numbers when clicked upon.
+# A simple UI with 2 dices which generate random numbers when clicked upon.
 
-Preview:
+## Preview:
 
-<img src="">
+<img src="https://github.com/chandran-jr/flutter-app-dev/blob/master/dicer/dice.PNG">
